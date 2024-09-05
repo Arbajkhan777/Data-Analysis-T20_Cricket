@@ -10,11 +10,11 @@ This repository contains a comprehensive analysis of the **2022 T20 World Cup** 
 - **Team Selection Tool**: An interactive feature to select the optimal playing XI based on specific parameters for openers, anchors, finishers, and pacers.
 - **Comprehensive Preprocessing**: Jupyter Notebook used for cleaning and processing data before loading into Power BI.
 
+[Click here to view the live dashboard](https://app.powerbi.com/groups/me/reports/24d63e7e-3b12-4feb-8487-1a08b6e1478e/ReportSection3a8cb23b814911c94608?experience=power-bi)
+
 ## 📊 Dashboard Preview
 
 ![image](https://github.com/user-attachments/assets/a3f9e94a-76f9-48a7-916c-6355f0e9e538)
-
-[Click here to view the live dashboard](https://app.powerbi.com/groups/me/reports/24d63e7e-3b12-4feb-8487-1a08b6e1478e/ReportSection3a8cb23b814911c94608?experience=power-bi)
 
 ## 📁 Data Overview
 
