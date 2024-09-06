@@ -82,4 +82,4 @@ An interactive team selection tool is included in the dashboard to help choose t
 
 ## 📬 Contact
 
-For any questions or suggestions, feel free to reach out at your-arbajkhan2117@gmail.com
+For any questions or suggestions, feel free to reach out at arbajkhan2117@gmail.com
